@@ -1,0 +1,5944 @@
+{
+    "nodes": [
+        {
+            "id": "CS 164 060 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 060",
+                "CRN: 21054",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computer Science",
+                "Days: Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Brian L Stuart",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 164 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 21055",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computer Science",
+                "Days: Monday",
+                "Start Time: 12:00",
+                "End Time: 13:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 060 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 060",
+                "CRN: 21486",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Programming I",
+                "Days: Wednesday",
+                "Start Time: 13:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Adelaida A Medlock",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Daniel W Moix",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Mark W Boady",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 171 061 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 061",
+                "CRN: 21487",
+                "Enrollment: 50",
+                "Max Enrollment: 72",
+                "Course Title: Computer Programming I",
+                "Days: Thursday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 062 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 062",
+                "CRN: 21489",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Programming I",
+                "Days: Thursday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 064 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 064",
+                "CRN: 21490",
+                "Enrollment: 38",
+                "Max Enrollment: 71",
+                "Course Title: Computer Programming I",
+                "Days: Friday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 065 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 065",
+                "CRN: 21057",
+                "Enrollment: 55",
+                "Max Enrollment: 71",
+                "Course Title: Computer Programming I",
+                "Days: Friday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 066 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 066",
+                "CRN: 24984",
+                "Enrollment: 69",
+                "Max Enrollment: 71",
+                "Course Title: Computer Programming I",
+                "Days: Friday",
+                "Start Time: 13:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 21491",
+                "Enrollment: 74",
+                "Max Enrollment: 167",
+                "Course Title: Computer Programming I",
+                "Days: Monday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 B - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: B",
+                "CRN: 21492",
+                "Enrollment: 117",
+                "Max Enrollment: 167",
+                "Course Title: Computer Programming I",
+                "Days: Monday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 171 C - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: C",
+                "CRN: 21493",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Programming I",
+                "Days: Monday",
+                "Start Time: 13:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 172 060 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 060",
+                "CRN: 20155",
+                "Enrollment: 51",
+                "Max Enrollment: 60",
+                "Course Title: Computer Programming II",
+                "Days: Wednesday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 171  Minimum Grade: C or CS 175  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 172 061 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 061",
+                "CRN: 20948",
+                "Enrollment: 30",
+                "Max Enrollment: 60",
+                "Course Title: Computer Programming II",
+                "Days: Friday",
+                "Start Time: 13:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 171  Minimum Grade: C or CS 175  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 172 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 21052",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Programming II",
+                "Days: Tuesday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 171  Minimum Grade: C or CS 175  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 001 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24767",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Thursday",
+                "Start Time: 10:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Galen Long",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 260 002 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 24768",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Thursday",
+                "Start Time: 11:00",
+                "End Time: 11:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 003 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 24769",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Thursday",
+                "Start Time: 14:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Kurt Schmidt",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 260 004 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 004",
+                "CRN: 24770",
+                "Enrollment: 26",
+                "Max Enrollment: 30",
+                "Course Title: Data Structures",
+                "Days: Thursday",
+                "Start Time: 15:00",
+                "End Time: 15:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 005 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 005",
+                "CRN: 24771",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Friday",
+                "Start Time: 12:00",
+                "End Time: 12:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 006 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 006",
+                "CRN: 24772",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Friday",
+                "Start Time: 13:00",
+                "End Time: 13:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 007 - Recitation/Discussion",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 007",
+                "CRN: 24773",
+                "Enrollment: 22",
+                "Max Enrollment: 30",
+                "Course Title: Data Structures",
+                "Days: Friday",
+                "Start Time: 14:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 24779",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Monday, Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 4.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 B - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: B",
+                "CRN: 24780",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Structures",
+                "Days: Monday, Wednesday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 4.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 260 C - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: C",
+                "CRN: 24781",
+                "Enrollment: 64",
+                "Max Enrollment: 66",
+                "Course Title: Data Structures",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 4.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 265 001 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21339",
+                "Enrollment: 38",
+                "Max Enrollment: 39",
+                "Course Title: Advanced Programming Tools and Techniques",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C or ECE 105  Minimum Grade: D or ECEC 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Joseph A Gallego Mejia",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 265 002 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 21810",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Advanced Programming Tools and Techniques",
+                "Days: Monday, Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C or ECE 105  Minimum Grade: D or ECEC 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 265 003 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 21811",
+                "Enrollment: 41",
+                "Max Enrollment: 42",
+                "Course Title: Advanced Programming Tools and Techniques",
+                "Days: Tuesday, Thursday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C or ECE 105  Minimum Grade: D or ECEC 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 270 002 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 24317",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Mathematical Foundations of Computer Science",
+                "Days: Tuesday, Thursday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C or CS 265  Minimum Grade: C or ECE 105  Minimum Grade: D or ECEC 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 270 003 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 24783",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Mathematical Foundations of Computer Science",
+                "Days: Tuesday, Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C or CS 265  Minimum Grade: C or ECE 105  Minimum Grade: D or ECEC 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Steve Earth",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 277 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22424",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Algorithms and Analysis",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 270  Minimum Grade: C and MATH 221  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 277 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 25572",
+                "Enrollment: 16",
+                "Max Enrollment: 30",
+                "Course Title: Algorithms and Analysis",
+                "Days: Monday, Wednesday",
+                "Start Time: 16:30",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 270  Minimum Grade: C and MATH 221  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 283 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20637",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Systems Programming",
+                "Days: Monday, Wednesday",
+                "Start Time: 09:00",
+                "End Time: 10:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Brian S Mitchell",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 283 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 20785",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Systems Programming",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 283 003 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 23407",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Systems Programming",
+                "Days: Monday, Wednesday",
+                "Start Time: 16:30",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 265  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 303 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23130",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Algorithmic Number Theory and Cryptography",
+                "Days: Tuesday, Thursday",
+                "Start Time: 16:30",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and (MATH 221  Minimum Grade: C or MATH 222  Minimum Grade: C ) and (MATH 201  Minimum Grade: C or ENGR 231  Minimum Grade: D )"
+            ]
+        },
+        {
+            "id": "Jeremy R Johnson",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 314 001 - Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22924",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing in the Small",
+                "Days: Tuesday, Thursday",
+                "Start Time: 12:00",
+                "End Time: 13:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 283  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 360 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20276",
+                "Enrollment: 44",
+                "Max Enrollment: 45",
+                "Course Title: Programming Language Concepts",
+                "Days: Monday, Wednesday",
+                "Start Time: 09:00",
+                "End Time: 10:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 265  Minimum Grade: C and CS 270  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Geoffrey B Mainland",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 360 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 21879",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Programming Language Concepts",
+                "Days: Monday, Wednesday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 265  Minimum Grade: C and CS 270  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 360 003 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 22425",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Programming Language Concepts",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 265  Minimum Grade: C and CS 270  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 370 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20171",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Operating Systems",
+                "Days: Tuesday, Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 283  Minimum Grade: C or ECEC 353  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 380 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22925",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Artificial Intelligence",
+                "Days: Tuesday, Thursday",
+                "Start Time: 16:30",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and CS 270  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Sean P Grimes",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 383 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21813",
+                "Enrollment: 66",
+                "Max Enrollment: 68",
+                "Course Title: Machine Learning",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and (MATH 201  Minimum Grade: C or ENGR 231  Minimum Grade: D ) and (MATH 221  Minimum Grade: C or MATH 222  Minimum Grade: C ) and (MATH 311  Minimum Grade: C or MATH 410  Minimum Grade: C or ECE 361  Minimum Grade: D )"
+            ]
+        },
+        {
+            "id": "Matthew J Burlick",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 432 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23147",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Interactive Computer Graphics",
+                "Days: Monday, Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and (MATH 201  Minimum Grade: C or MATH 261  Minimum Grade: C or ENGR 231  Minimum Grade: D )"
+            ]
+        },
+        {
+            "id": "CS 435 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21814",
+                "Enrollment: 27",
+                "Max Enrollment: 30",
+                "Course Title: Computational Photography",
+                "Days: Tuesday, Thursday",
+                "Start Time: 09:00",
+                "End Time: 10:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 260  Minimum Grade: C and (MATH 201  Minimum Grade: C or MATH 261  Minimum Grade: C or ENGR 231  Minimum Grade: D )"
+            ]
+        },
+        {
+            "id": "Feng Liu",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 458 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22117",
+                "Enrollment: 12",
+                "Max Enrollment: 30",
+                "Course Title: Data Structures and Algorithms II",
+                "Days: Tuesday, Thursday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 457  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Manolis Pountourakis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 472 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22604",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Networks: Theory, Applications and Programming",
+                "Days: Tuesday, Thursday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 361  Minimum Grade: D or CS 283  Minimum Grade: C or ECEC 353  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 472 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 23224",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computer Networks: Theory, Applications and Programming",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 361  Minimum Grade: D or CS 283  Minimum Grade: C or ECEC 353  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS 478 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25164",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Advanced Web Development",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 375  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CS T480 001 - Special Topics",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25308",
+                "Enrollment: 14",
+                "Max Enrollment: 30",
+                "Course Title: Augmented Reality Programming",
+                "Days: Monday, Wednesday",
+                "Start Time: 16:30",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Tiffany Do",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 482 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24785",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Robust Machine Learning",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 380  Minimum Grade: C or CS 383  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Kaidi Xu",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 501 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23227",
+                "Enrollment: 14",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Programming",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 501 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23243",
+                "Enrollment: 13",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Programming",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 502 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22119",
+                "Enrollment: 29",
+                "Max Enrollment: 30",
+                "Course Title: Data Structures and Algorithms",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 501  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 502 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22120",
+                "Enrollment: 23",
+                "Max Enrollment: 25",
+                "Course Title: Data Structures and Algorithms",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 501  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 503 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23228",
+                "Enrollment: 7",
+                "Max Enrollment: 25",
+                "Course Title: Systems Basics",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 501  Minimum Grade: C  (CS 501  may be taken concurrently with CS 503)"
+            ]
+        },
+        {
+            "id": "CS 503 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23244",
+                "Enrollment: 6",
+                "Max Enrollment: 25",
+                "Course Title: Systems Basics",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 501  Minimum Grade: C  (CS 501  may be taken concurrently with CS 503)"
+            ]
+        },
+        {
+            "id": "CS 504 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22121",
+                "Enrollment: 15",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Software Design",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 502  Minimum Grade: C  (CS 502  may be taken concurrently with CS 504) and CS 503  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Boris Valerstein",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 504 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22122",
+                "Enrollment: 22",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Software Design",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 502  Minimum Grade: C  (CS 502  may be taken concurrently with CS 504) and CS 503  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 510 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23412",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Artificial Intelligence",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 510 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23413",
+                "Enrollment: 6",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Artificial Intelligence",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 530 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21609",
+                "Enrollment: 15",
+                "Max Enrollment: 25",
+                "Course Title: Developing User Interfaces",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Nadya B Sultanik",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 530 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21610",
+                "Enrollment: 18",
+                "Max Enrollment: 25",
+                "Course Title: Developing User Interfaces",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 543 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22123",
+                "Enrollment: 13",
+                "Max Enrollment: 25",
+                "Course Title: Operating Systems",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 543 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22124",
+                "Enrollment: 20",
+                "Max Enrollment: 25",
+                "Course Title: Operating Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 550 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23414",
+                "Enrollment: 19",
+                "Max Enrollment: 25",
+                "Course Title: Programming Languages",
+                "Days: Wednesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 550 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23415",
+                "Enrollment: 5",
+                "Max Enrollment: 25",
+                "Course Title: Programming Languages",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 570 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23229",
+                "Enrollment: 11",
+                "Max Enrollment: 25",
+                "Course Title: Programming Foundations",
+                "Days: Wednesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 570 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23245",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Programming Foundations",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 591 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24789",
+                "Enrollment: 4",
+                "Max Enrollment: 5",
+                "Course Title: Artificial Intelligence and Machine Learning Capstone I",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: (CS 510  Minimum Grade: C and CS 613  Minimum Grade: C and CS 615  Minimum Grade: C ) or (CS 614  Minimum Grade: C and INFO 629  Minimum Grade: C )"
+            ]
+        },
+        {
+            "id": "Trip E Denton",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 591 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24234",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Artificial Intelligence and Machine Learning Capstone I",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: (CS 510  Minimum Grade: C and CS 613  Minimum Grade: C and CS 615  Minimum Grade: C ) or (CS 614  Minimum Grade: C and INFO 629  Minimum Grade: C )"
+            ]
+        },
+        {
+            "id": "CS 592 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24790",
+                "Enrollment: 3",
+                "Max Enrollment: 5",
+                "Course Title: Artificial Intelligence and Machine Learning Capstone II",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 591  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 592 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22734",
+                "Enrollment: 11",
+                "Max Enrollment: 12",
+                "Course Title: Artificial Intelligence and Machine Learning Capstone II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 591  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 613 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23418",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Machine Learning",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Reza Moradinezhad",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 613 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23419",
+                "Enrollment: 7",
+                "Max Enrollment: 25",
+                "Course Title: Machine Learning",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 614 690 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 690",
+                "CRN: 24791",
+                "Enrollment: 23",
+                "Max Enrollment: 25",
+                "Course Title: Applications of Machine Learning",
+                "Days: Monday",
+                "Start Time: 12:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 629  Minimum Grade: C or CS 613  Minimum Grade: C or DSCI 631  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Edward Kim",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 615 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22125",
+                "Enrollment: 9",
+                "Max Enrollment: 25",
+                "Course Title: Deep Learning",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 613  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 615 690 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 690",
+                "CRN: 24792",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Deep Learning",
+                "Days: Thursday",
+                "Start Time: 12:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 613  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 615 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22126",
+                "Enrollment: 22",
+                "Max Enrollment: 25",
+                "Course Title: Deep Learning",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 613  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 616 690 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 690",
+                "CRN: 24793",
+                "Enrollment: 27",
+                "Max Enrollment: 30",
+                "Course Title: Robust Deep Learning",
+                "Days: Tuesday",
+                "Start Time: 12:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 613  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CS 997 001 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25378",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Yuanfang Cai",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 002 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 25379",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Preetha Chatterjee",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 003 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 25380",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Vasilis Gkatzelis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 004 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 004",
+                "CRN: 25381",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Colin S Gordon",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 005 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 005",
+                "CRN: 25382",
+                "Enrollment: 1",
+                "Max Enrollment: 2",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Shahin Jabbari",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 006 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 006",
+                "CRN: 25383",
+                "Enrollment: 1",
+                "Max Enrollment: 5",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 997 007 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 007",
+                "CRN: 25384",
+                "Enrollment: 1",
+                "Max Enrollment: 2",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 997 008 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 008",
+                "CRN: 25385",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 997 009 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 009",
+                "CRN: 25386",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Ali Shokoufandeh",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 010 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 010",
+                "CRN: 25387",
+                "Enrollment: 0",
+                "Max Enrollment: 1",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Eric Sun",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 997 011 - Research",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 011",
+                "CRN: 25388",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Research in Computer Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "David E Breen",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 998 001 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25389",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 002 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 25390",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 003 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 25391",
+                "Enrollment: 0",
+                "Max Enrollment: 1",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 004 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 004",
+                "CRN: 25392",
+                "Enrollment: 1",
+                "Max Enrollment: 2",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 005 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 005",
+                "CRN: 25393",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 006 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 006",
+                "CRN: 25394",
+                "Enrollment: 4",
+                "Max Enrollment: 5",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 007 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 007",
+                "CRN: 25395",
+                "Enrollment: 0",
+                "Max Enrollment: 1",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 008 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 008",
+                "CRN: 25396",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Spiros Mancoridis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 998 009 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 009",
+                "CRN: 25397",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Santiago Ontanon",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CS 998 010 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 010",
+                "CRN: 25398",
+                "Enrollment: 1",
+                "Max Enrollment: 2",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 011 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 011",
+                "CRN: 25399",
+                "Enrollment: 0",
+                "Max Enrollment: 1",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CS 998 012 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 012",
+                "CRN: 25583",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CT 250 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21506",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: IT Security Awareness",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Hengyi M Chu",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 301 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21507",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Information Technology Security II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 140  Minimum Grade: D and CT 201  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Michelle A Tarbutton",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 310 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20378",
+                "Enrollment: 17",
+                "Max Enrollment: 25",
+                "Course Title: Open Server II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 210  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CT 320 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21336",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Server II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 200  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CT 330 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21418",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Network Administration II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 140  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Chris J Carroll",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 353 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21508",
+                "Enrollment: 17",
+                "Max Enrollment: 25",
+                "Course Title: Virtual Environments and Cloud Security",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 200  Minimum Grade: D and CT 210  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CT 414 900 - Integrated Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21509",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ethical Hacking and Penetration Testing",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Andrew W Calhoun",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 432 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22417",
+                "Enrollment: 24",
+                "Max Enrollment: 25",
+                "Course Title: Information Technology Security Systems Audits",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 420  Minimum Grade: D or CT 301  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CT 491 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21228",
+                "Enrollment: 20",
+                "Max Enrollment: 25",
+                "Course Title: Senior Project I",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 324  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Thomas J Heverin",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 491 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 23431",
+                "Enrollment: 35",
+                "Max Enrollment: 50",
+                "Course Title: Senior Project I",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 324  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Chad E Peiper",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CT 600 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23432",
+                "Enrollment: 5",
+                "Max Enrollment: 12",
+                "Course Title: Cloud Technology",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CT 500  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CT 600 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22419",
+                "Enrollment: 5",
+                "Max Enrollment: 13",
+                "Course Title: Cloud Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CT 500  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "CI 102 060 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 060",
+                "CRN: 20939",
+                "Enrollment: 67",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Wednesday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 062 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 062",
+                "CRN: 20941",
+                "Enrollment: 69",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Thursday",
+                "Start Time: 13:00",
+                "End Time: 14:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 063 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 063",
+                "CRN: 20942",
+                "Enrollment: 69",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Tammy R Pirmann",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CI 102 064 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 064",
+                "CRN: 20943",
+                "Enrollment: 47",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Friday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Erjia Yan",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CI 102 065 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 065",
+                "CRN: 20944",
+                "Enrollment: 52",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Friday",
+                "Start Time: 11:00",
+                "End Time: 12:50",
+                "Credits: 0.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Michelle L Rogers",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "CI 102 900 - Lecture & Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22593",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing and Informatics Design II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 20945",
+                "Enrollment: 69",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Tuesday",
+                "Start Time: 11:00",
+                "End Time: 11:50",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 C - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: C",
+                "CRN: 20947",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Tuesday",
+                "Start Time: 13:00",
+                "End Time: 13:50",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 D - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: D",
+                "CRN: 20970",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Tuesday",
+                "Start Time: 14:00",
+                "End Time: 14:50",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 E - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: E",
+                "CRN: 21338",
+                "Enrollment: 69",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Tuesday",
+                "Start Time: 15:00",
+                "End Time: 15:50",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 102 F - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: F",
+                "CRN: 22426",
+                "Enrollment: 22",
+                "Max Enrollment: 70",
+                "Course Title: Computing and Informatics Design II",
+                "Days: Tuesday",
+                "Start Time: 16:00",
+                "End Time: 16:50",
+                "Credits: 2.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "CI 103 060 - Lab",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 060",
+                "CRN: 21196",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing and Informatics Design III",
+                "Days: Thursday",
+                "Start Time: 09:00",
+                "End Time: 10:50",
+                "Credits: 0.00",
+                "Prerequisites: CI 102  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "CI 103 A - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: A",
+                "CRN: 21197",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Computing and Informatics Design III",
+                "Days: Tuesday",
+                "Start Time: 09:00",
+                "End Time: 09:50",
+                "Credits: 2.00",
+                "Prerequisites: CI 102  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "DSCI 501 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22130",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Quantitative Foundations of Data Science",
+                "Days: Wednesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Bhupesh Y Shetty",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 501 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22131",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Quantitative Foundations of Data Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "DSCI 511 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23230",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Acquisition and Pre-Processing",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 570  Minimum Grade: C  (CS 570  may be taken concurrently with DSCI 511)"
+            ]
+        },
+        {
+            "id": "Shruti V Phadke",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 511 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23429",
+                "Enrollment: 13",
+                "Max Enrollment: 15",
+                "Course Title: Data Acquisition and Pre-Processing",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 570  Minimum Grade: C  (CS 570  may be taken concurrently with DSCI 511)"
+            ]
+        },
+        {
+            "id": "DSCI 521 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21616",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Analysis and Interpretation",
+                "Days: Monday",
+                "Start Time: 15:00",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 501  Minimum Grade: C  (DSCI 501  may be taken concurrently with DSCI 521)"
+            ]
+        },
+        {
+            "id": "Pragati Awasthi",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 521 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21617",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Data Analysis and Interpretation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 501  Minimum Grade: C  (DSCI 501  may be taken concurrently with DSCI 521)"
+            ]
+        },
+        {
+            "id": "DSCI 591 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24802",
+                "Enrollment: 24",
+                "Max Enrollment: 25",
+                "Course Title: Data Science Capstone I",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Lei Wang",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 591 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24803",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Data Science Capstone I",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "DSCI 632 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22427",
+                "Enrollment: 23",
+                "Max Enrollment: 25",
+                "Course Title: Applied Cloud Computing",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 521  Minimum Grade: C  (DSCI 521  may be taken concurrently with DSCI 632)"
+            ]
+        },
+        {
+            "id": "Milad Toutounchian",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 632 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22428",
+                "Enrollment: 18",
+                "Max Enrollment: 25",
+                "Course Title: Applied Cloud Computing",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 521  Minimum Grade: C  (DSCI 521  may be taken concurrently with DSCI 632)"
+            ]
+        },
+        {
+            "id": "DSCI 641 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23430",
+                "Enrollment: 9",
+                "Max Enrollment: 12",
+                "Course Title: Recommender Systems for Data Science",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 521  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Michael D Ekstrand",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "DSCI 641 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23055",
+                "Enrollment: 10",
+                "Max Enrollment: 13",
+                "Course Title: Recommender Systems for Data Science",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: DSCI 521  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 101 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21828",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computing and Security Technology",
+                "Days: Tuesday, Thursday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 101 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20729",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computing and Security Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 101 901 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 901",
+                "CRN: 20454",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computing and Security Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 101 902 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 902",
+                "CRN: 23219",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computing and Security Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 101 903 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 903",
+                "CRN: 23433",
+                "Enrollment: 26",
+                "Max Enrollment: 27",
+                "Course Title: Introduction to Computing and Security Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Polly A College",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 101 904 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 904",
+                "CRN: 24326",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Computing and Security Technology",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Ram Arthanari",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 102 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21829",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Information Systems",
+                "Days: Monday, Wednesday",
+                "Start Time: 09:00",
+                "End Time: 10:20",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 102 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 21436",
+                "Enrollment: 28",
+                "Max Enrollment: 35",
+                "Course Title: Introduction to Information Systems",
+                "Days: Monday, Wednesday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 102 003 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 21452",
+                "Enrollment: 31",
+                "Max Enrollment: 35",
+                "Course Title: Introduction to Information Systems",
+                "Days: Tuesday, Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 102 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21442",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Information Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 103 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22928",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Data Science",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Andrew J Kane",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 110 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20484",
+                "Enrollment: 19",
+                "Max Enrollment: 25",
+                "Course Title: Introduction to Human-Computer Interaction",
+                "Days: Tuesday, Thursday",
+                "Start Time: 09:00",
+                "End Time: 10:20",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 152 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21830",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Web Systems and Services II",
+                "Days: Tuesday, Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: INFO 151  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Bo Song",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 210 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20174",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Database Management Systems",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: INFO 101  Minimum Grade: D or SE 210  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Hegler Correa Tissot",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 210 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21389",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Database Management Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 101  Minimum Grade: D or SE 210  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "INFO 210 901 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 901",
+                "CRN: 25592",
+                "Enrollment: 23",
+                "Max Enrollment: 25",
+                "Course Title: Database Management Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 101  Minimum Grade: D or SE 210  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Il-Yeol Song",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 215 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20314",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social Aspects of Information Systems",
+                "Days: Tuesday, Thursday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 215 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21510",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social Aspects of Information Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Jung-Ran Park",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 250 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22929",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Information Visualization",
+                "Days: Tuesday, Thursday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Danielle D Boccelli",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 310 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20175",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Human-Centered Design Process & Methods",
+                "Days: Monday, Wednesday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: INFO 110  Minimum Grade: D or INFO 151  Minimum Grade: D or CS 171  Minimum Grade: D or ECE 105  Minimum Grade: D or ECE 203  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Afsaneh Razi",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 310 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 21832",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Human-Centered Design Process & Methods",
+                "Days: Tuesday, Thursday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: INFO 110  Minimum Grade: D or INFO 151  Minimum Grade: D or CS 171  Minimum Grade: D or ECE 105  Minimum Grade: D or ECE 203  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "INFO 355 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20949",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Systems Analysis II",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 210  Minimum Grade: D and INFO 200  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "INFO 371 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22132",
+                "Enrollment: 30",
+                "Max Enrollment: 31",
+                "Course Title: Data Mining Applications",
+                "Days: Monday, Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: STAT 201  Minimum Grade: D or PBHL 211  Minimum Grade: D or MATH 311  Minimum Grade: D"
+            ]
+        },
+        {
+            "id": "Yuan An",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 420 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21227",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Project Management",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: (INFO 200  Minimum Grade: D or SE 210  Minimum Grade: D ) and (CS 172  Minimum Grade: D or CS 265  Minimum Grade: D or INFO 152  Minimum Grade: D )"
+            ]
+        },
+        {
+            "id": "Chaomei Chen",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 501 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24806",
+                "Enrollment: 11",
+                "Max Enrollment: 25",
+                "Course Title: Information Professionals, Resources, and Services",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Alexander H Poole",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 507 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21337",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Leading and Managing Information Organizations",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 508 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22421",
+                "Enrollment: 5",
+                "Max Enrollment: 12",
+                "Course Title: Information Innovation through Design Thinking",
+                "Days: Tuesday",
+                "Start Time: 15:00",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Paul R Pinto",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 508 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21833",
+                "Enrollment: 11",
+                "Max Enrollment: 13",
+                "Course Title: Information Innovation through Design Thinking",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 517 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23214",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Principles of Cybersecurity",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 532 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23434",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Development",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 532 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23435",
+                "Enrollment: 9",
+                "Max Enrollment: 13",
+                "Course Title: Software Development",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 540 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23213",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Perspectives on Information Systems",
+                "Days: Thursday",
+                "Start Time: 15:00",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 540 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23436",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Perspectives on Information Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 560 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23437",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Archives I",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 590 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23438",
+                "Enrollment: 9",
+                "Max Enrollment: 12",
+                "Course Title: Foundations of Data and Information",
+                "Days: Wednesday",
+                "Start Time: 09:00",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Jane Greenberg",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 590 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21341",
+                "Enrollment: 5",
+                "Max Enrollment: 13",
+                "Course Title: Foundations of Data and Information",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 600 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24807",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Web Systems & Architecture",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 540  Minimum Grade: C  (INFO 540  may be taken concurrently with INFO 600) or INFO 590  Minimum Grade: C or CS 502  Minimum Grade: C or INFO 532  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 605 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21614",
+                "Enrollment: 10",
+                "Max Enrollment: 25",
+                "Course Title: Database Management Systems",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 605 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20580",
+                "Enrollment: 15",
+                "Max Enrollment: 25",
+                "Course Title: Database Management Systems",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 606 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21834",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Advanced Database Management",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 605  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 606 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21281",
+                "Enrollment: 4",
+                "Max Enrollment: 13",
+                "Course Title: Advanced Database Management",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 605  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 608 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20508",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Human-Computer Interaction",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 609 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25507",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Accessible and Inclusive Design",
+                "Days: Monday",
+                "Start Time: 09:00",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 609) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 609) or INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 609)"
+            ]
+        },
+        {
+            "id": "Deborah A Garwood",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 609 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23441",
+                "Enrollment: 19",
+                "Max Enrollment: 20",
+                "Course Title: Accessible and Inclusive Design",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 609) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 609) or INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 609)"
+            ]
+        },
+        {
+            "id": "INFO 616 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22422",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social and Collaborative Computing",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 616) or INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 616) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 616)"
+            ]
+        },
+        {
+            "id": "INFO 616 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22423",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social and Collaborative Computing",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 616) or INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 616) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 616)"
+            ]
+        },
+        {
+            "id": "INFO 623 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22930",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social Network Analytics",
+                "Days: Tuesday",
+                "Start Time: 09:00",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 623 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22932",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Social Network Analytics",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 629 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22931",
+                "Enrollment: 17",
+                "Max Enrollment: 18",
+                "Course Title: Applied Artificial Intelligence",
+                "Days: Wednesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 620  Minimum Grade: C or CS 501  Minimum Grade: C or CS 570  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Weimao Ke",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 629 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22933",
+                "Enrollment: 17",
+                "Max Enrollment: 18",
+                "Course Title: Applied Artificial Intelligence",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 620  Minimum Grade: C or CS 501  Minimum Grade: C or CS 570  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 648 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23442",
+                "Enrollment: 14",
+                "Max Enrollment: 25",
+                "Course Title: Healthcare Informatics",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Elizabeth A Campbell",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 652 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24808",
+                "Enrollment: 11",
+                "Max Enrollment: 12",
+                "Course Title: Information Behavior",
+                "Days: Wednesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Heather L Willever-Farr",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 652 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24809",
+                "Enrollment: 11",
+                "Max Enrollment: 13",
+                "Course Title: Information Behavior",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 655 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23443",
+                "Enrollment: 4",
+                "Max Enrollment: 12",
+                "Course Title: Intro to Web Programming",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 532  Minimum Grade: C or INFO 552  Minimum Grade: C or INFO 600  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Mat R Kelly",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 655 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23444",
+                "Enrollment: 6",
+                "Max Enrollment: 13",
+                "Course Title: Intro to Web Programming",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 532  Minimum Grade: C or INFO 552  Minimum Grade: C or INFO 600  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 657 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21615",
+                "Enrollment: 15",
+                "Max Enrollment: 25",
+                "Course Title: Digital Library Technologies",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 552  Minimum Grade: C or INFO 540  Minimum Grade: C or INFO 590  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 684 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21835",
+                "Enrollment: 18",
+                "Max Enrollment: 25",
+                "Course Title: Resources for Young Adults",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Melissa M Brinn",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 690 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21880",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Understanding Users: User Experience Research Methods",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 690) or INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 690) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 690)"
+            ]
+        },
+        {
+            "id": "Sonia M Pascua",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 690 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21881",
+                "Enrollment: 17",
+                "Max Enrollment: 18",
+                "Course Title: Understanding Users: User Experience Research Methods",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 508  Minimum Grade: C  (INFO 508  may be taken concurrently with INFO 690) or INFO 608  Minimum Grade: C  (INFO 608  may be taken concurrently with INFO 690) or DSRE 620  Minimum Grade: C  (DSRE 620  may be taken concurrently with INFO 690)"
+            ]
+        },
+        {
+            "id": "INFO 693 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25305",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Human\u00bfArtificial Intelligence Interaction",
+                "Days: Monday",
+                "Start Time: 15:00",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Tim J Gorichanaz",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 693 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 25306",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Human\u00bfArtificial Intelligence Interaction",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 712 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24810",
+                "Enrollment: 9",
+                "Max Enrollment: 12",
+                "Course Title: Information Assurance",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: INFO 540  Minimum Grade: C or INFO 590  Minimum Grade: C or CS 502  Minimum Grade: C or DSCI 511  Minimum Grade: C  (DSCI 511  may be taken concurrently with INFO 712) or DSCI 521  Minimum Grade: C  (DSCI 521  may be taken concurrently with INFO 712) or INFO 517  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 712 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 20752",
+                "Enrollment: 8",
+                "Max Enrollment: 13",
+                "Course Title: Information Assurance",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: INFO 540  Minimum Grade: C or INFO 590  Minimum Grade: C or CS 502  Minimum Grade: C or DSCI 511  Minimum Grade: C  (DSCI 511  may be taken concurrently with INFO 712) or DSCI 521  Minimum Grade: C  (DSCI 521  may be taken concurrently with INFO 712) or INFO 517  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "INFO 725 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21836",
+                "Enrollment: 33",
+                "Max Enrollment: 34",
+                "Course Title: Information Policy and Ethics",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "John S Seberger",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 823 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 21837",
+                "Enrollment: 7",
+                "Max Enrollment: 25",
+                "Course Title: Foundations in Human-Centered Computing",
+                "Days: Tuesday",
+                "Start Time: 12:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Aleksandra Sarcevic",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 881 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24812",
+                "Enrollment: 10",
+                "Max Enrollment: 12",
+                "Course Title: HCI/UX Capstone I",
+                "Days: Wednesday",
+                "Start Time: 15:00",
+                "End Time: 17:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 881 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 24813",
+                "Enrollment: 14",
+                "Max Enrollment: 15",
+                "Course Title: HCI/UX Capstone I",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 890 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21511",
+                "Enrollment: 10",
+                "Max Enrollment: 15",
+                "Course Title: Capstone Project",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00 TO 6.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 001 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25400",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 002 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 25401",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 003 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 003",
+                "CRN: 25402",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 004 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 004",
+                "CRN: 25403",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Xiaohua Hu",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 998 005 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 005",
+                "CRN: 25404",
+                "Enrollment: 0",
+                "Max Enrollment: 1",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 006 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 006",
+                "CRN: 25405",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 007 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 007",
+                "CRN: 25406",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Helena Mentis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 998 008 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 008",
+                "CRN: 25407",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 009 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 009",
+                "CRN: 25408",
+                "Enrollment: 3",
+                "Max Enrollment: 4",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 010 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 010",
+                "CRN: 25409",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Shadi Rezapour",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 998 011 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 011",
+                "CRN: 25410",
+                "Enrollment: 0",
+                "Max Enrollment: 2",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 012 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 012",
+                "CRN: 25411",
+                "Enrollment: 2",
+                "Max Enrollment: 3",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 013 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 013",
+                "CRN: 25412",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 014 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 014",
+                "CRN: 25413",
+                "Enrollment: 3",
+                "Max Enrollment: 4",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Rosina O Weber",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 998 015 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 015",
+                "CRN: 25414",
+                "Enrollment: 3",
+                "Max Enrollment: 4",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Jake Williams",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "INFO 998 016 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 016",
+                "CRN: 25415",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "INFO 998 017 - Dissertation",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 017",
+                "CRN: 25416",
+                "Enrollment: 6",
+                "Max Enrollment: 7",
+                "Course Title: Ph.D. Research and Dissertation",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 1.00 TO 12.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "Christopher C Yang",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "SE 201 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24797",
+                "Enrollment: 27",
+                "Max Enrollment: 35",
+                "Course Title: Introduction to Software Engineering and Development",
+                "Days: Monday, Wednesday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 201 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 24798",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Introduction to Software Engineering and Development",
+                "Days: Monday, Wednesday",
+                "Start Time: 13:30",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 172  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 211 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20162",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Specification and Design II",
+                "Days: Tuesday, Thursday",
+                "Start Time: 15:00",
+                "End Time: 16:20",
+                "Credits: 3.00",
+                "Prerequisites: SE 210  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "Filippos I Vokolos",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "SE 311 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 20199",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Architecture II",
+                "Days: Tuesday, Thursday",
+                "Start Time: 10:30",
+                "End Time: 11:50",
+                "Credits: 3.00",
+                "Prerequisites: SE 310  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 311 002 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 002",
+                "CRN: 23222",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Architecture II",
+                "Days: Tuesday, Thursday",
+                "Start Time: 12:00",
+                "End Time: 13:20",
+                "Credits: 3.00",
+                "Prerequisites: SE 310  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 570 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 25307",
+                "Enrollment: 16",
+                "Max Enrollment: 30",
+                "Course Title: Agile Software Development Process",
+                "Days: Monday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 575 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23425",
+                "Enrollment: 23",
+                "Max Enrollment: 25",
+                "Course Title: Software Design",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 575 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23426",
+                "Enrollment: 10",
+                "Max Enrollment: 25",
+                "Course Title: Software Design",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 576 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24799",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Software Reliability and Testing",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 576 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22127",
+                "Enrollment: 12",
+                "Max Enrollment: 25",
+                "Course Title: Software Reliability and Testing",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 504  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 578 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 22128",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Security Engineering",
+                "Days: Friday",
+                "Start Time: 12:00",
+                "End Time: 14:50",
+                "Credits: 3.00",
+                "Prerequisites: CS 502  Minimum Grade: C and CS 503  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 578 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 22129",
+                "Enrollment: 15",
+                "Max Enrollment: 25",
+                "Course Title: Security Engineering",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: CS 502  Minimum Grade: C and CS 503  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 630 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 23427",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Engineering Economics",
+                "Days: Thursday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "SE 630 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 23428",
+                "Enrollment: FULL",
+                "Max Enrollment: FULL",
+                "Course Title: Software Engineering Economics",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: "
+            ]
+        },
+        {
+            "id": "SE 691 001 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Face To Face",
+                "Section: 001",
+                "CRN: 24800",
+                "Enrollment: 2",
+                "Max Enrollment: 4",
+                "Course Title: Software Studio",
+                "Days: Tuesday",
+                "Start Time: 18:00",
+                "End Time: 20:50",
+                "Credits: 3.00",
+                "Prerequisites: SE 570  Minimum Grade: C"
+            ]
+        },
+        {
+            "id": "SE 691 900 - Lecture",
+            "group": 1,
+            "additionalInfo": [
+                "Instruction Method: Online-Asynchronous",
+                "Section: 900",
+                "CRN: 21494",
+                "Enrollment: 2",
+                "Max Enrollment: 4",
+                "Course Title: Software Studio",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Credits: 3.00",
+                "Prerequisites: SE 570  Minimum Grade: C"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "CS 164 060 - Lab",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 164 A - Lecture",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 060 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 060 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 060 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 061 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 061 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 061 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 062 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 062 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 062 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 064 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 064 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 064 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 065 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 065 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 065 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 066 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 066 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 066 - Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 A - Lecture",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 B - Lecture",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171 C - Lecture",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 172 060 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 172 061 - Lab",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 172 A - Lecture",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 001 - Recitation/Discussion",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 002 - Recitation/Discussion",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 003 - Recitation/Discussion",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 004 - Recitation/Discussion",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 005 - Recitation/Discussion",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 006 - Recitation/Discussion",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 007 - Recitation/Discussion",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 A - Lecture",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 B - Lecture",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260 C - Lecture",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 265 001 - Integrated Lecture & Lab",
+            "target": "Joseph A Gallego Mejia",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 265 002 - Integrated Lecture & Lab",
+            "target": "Joseph A Gallego Mejia",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 265 003 - Integrated Lecture & Lab",
+            "target": "Joseph A Gallego Mejia",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 270 002 - Integrated Lecture & Lab",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 270 003 - Integrated Lecture & Lab",
+            "target": "Steve Earth",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 277 001 - Lecture",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 277 002 - Lecture",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 283 001 - Lecture",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 283 002 - Lecture",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 283 003 - Lecture",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 303 001 - Lecture",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 314 001 - Lecture & Lab",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 360 001 - Lecture",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 360 002 - Lecture",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 360 003 - Lecture",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 370 001 - Lecture",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 380 001 - Lecture",
+            "target": "Sean P Grimes",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 383 001 - Lecture",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 432 001 - Lecture",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 435 001 - Lecture",
+            "target": "Feng Liu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 458 001 - Lecture",
+            "target": "Manolis Pountourakis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 472 001 - Lecture",
+            "target": "Sean P Grimes",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 472 002 - Lecture",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 478 001 - Lecture",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS T480 001 - Special Topics",
+            "target": "Tiffany Do",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 482 001 - Lecture",
+            "target": "Kaidi Xu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 502 001 - Lecture",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 502 900 - Lecture",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 504 001 - Lecture",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 504 900 - Lecture",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 510 001 - Lecture",
+            "target": "Sean P Grimes",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 510 900 - Lecture",
+            "target": "Sean P Grimes",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 530 001 - Lecture",
+            "target": "Nadya B Sultanik",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 530 900 - Lecture",
+            "target": "Nadya B Sultanik",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 543 001 - Lecture",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 543 900 - Lecture",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 550 001 - Lecture",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 550 900 - Lecture",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 591 001 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 591 900 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 592 001 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 592 900 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 613 001 - Lecture",
+            "target": "Reza Moradinezhad",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 613 900 - Lecture",
+            "target": "Reza Moradinezhad",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 614 690 - Lecture",
+            "target": "Edward Kim",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 615 001 - Lecture",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 615 690 - Lecture",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 615 900 - Lecture",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 616 690 - Lecture",
+            "target": "Kaidi Xu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 001 - Research",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 002 - Research",
+            "target": "Preetha Chatterjee",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 003 - Research",
+            "target": "Vasilis Gkatzelis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 004 - Research",
+            "target": "Colin S Gordon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 005 - Research",
+            "target": "Shahin Jabbari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 006 - Research",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 007 - Research",
+            "target": "Edward Kim",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 008 - Research",
+            "target": "Manolis Pountourakis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 009 - Research",
+            "target": "Ali Shokoufandeh",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 010 - Research",
+            "target": "Eric Sun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997 011 - Research",
+            "target": "David E Breen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 001 - Dissertation",
+            "target": "David E Breen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 002 - Dissertation",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 003 - Dissertation",
+            "target": "Vasilis Gkatzelis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 004 - Dissertation",
+            "target": "Colin S Gordon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 005 - Dissertation",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 006 - Dissertation",
+            "target": "Edward Kim",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 007 - Dissertation",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 008 - Dissertation",
+            "target": "Spiros Mancoridis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 009 - Dissertation",
+            "target": "Santiago Ontanon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 010 - Dissertation",
+            "target": "Manolis Pountourakis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 011 - Dissertation",
+            "target": "Ali Shokoufandeh",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998 012 - Dissertation",
+            "target": "Kaidi Xu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 250 900 - Lecture",
+            "target": "Hengyi M Chu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 301 900 - Lecture",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 310 900 - Lecture",
+            "target": "Hengyi M Chu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 320 900 - Lecture",
+            "target": "Hengyi M Chu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 330 900 - Lecture",
+            "target": "Chris J Carroll",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 353 900 - Lecture",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 414 900 - Integrated Lecture & Lab",
+            "target": "Andrew W Calhoun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 432 900 - Lecture",
+            "target": "Hengyi M Chu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 491 900 - Lecture",
+            "target": "Thomas J Heverin",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 491 A - Lecture",
+            "target": "Thomas J Heverin",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 491 A - Lecture",
+            "target": "Chad E Peiper",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 600 001 - Lecture",
+            "target": "Chris J Carroll",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CT 600 900 - Lecture",
+            "target": "Chris J Carroll",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 060 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 062 - Lab",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 063 - Lab",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 064 - Lab",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 065 - Lab",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 900 - Lecture & Lab",
+            "target": "Andrew W Calhoun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 A - Lecture",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 C - Lecture",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 D - Lecture",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 E - Lecture",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102 F - Lecture",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 103 060 - Lab",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 103 A - Lecture",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 501 001 - Lecture",
+            "target": "Bhupesh Y Shetty",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 501 900 - Lecture",
+            "target": "Bhupesh Y Shetty",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 511 001 - Lecture",
+            "target": "Shruti V Phadke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 511 900 - Lecture",
+            "target": "Shruti V Phadke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 521 001 - Lecture",
+            "target": "Pragati Awasthi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 521 900 - Lecture",
+            "target": "Pragati Awasthi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 591 001 - Lecture",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 591 900 - Lecture",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 632 001 - Lecture",
+            "target": "Milad Toutounchian",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 632 900 - Lecture",
+            "target": "Milad Toutounchian",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 641 001 - Lecture",
+            "target": "Michael D Ekstrand",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 641 900 - Lecture",
+            "target": "Michael D Ekstrand",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 001 - Lecture",
+            "target": "Chad E Peiper",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 900 - Lecture",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 901 - Lecture",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 902 - Lecture",
+            "target": "Pragati Awasthi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 903 - Lecture",
+            "target": "Polly A College",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101 904 - Lecture",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102 001 - Lecture",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102 002 - Lecture",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102 003 - Lecture",
+            "target": "Chad E Peiper",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102 900 - Lecture",
+            "target": "Pragati Awasthi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 103 001 - Lecture",
+            "target": "Andrew J Kane",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 110 001 - Lecture",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 152 001 - Lecture",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 210 001 - Lecture",
+            "target": "Hegler Correa Tissot",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 210 900 - Lecture",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 210 901 - Lecture",
+            "target": "Il-Yeol Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 215 001 - Lecture",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 215 900 - Lecture",
+            "target": "Jung-Ran Park",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 250 001 - Lecture",
+            "target": "Danielle D Boccelli",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 310 001 - Lecture",
+            "target": "Afsaneh Razi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 355 900 - Lecture",
+            "target": "Hegler Correa Tissot",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 371 001 - Lecture",
+            "target": "Yuan An",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 420 900 - Lecture",
+            "target": "Chaomei Chen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 501 900 - Lecture",
+            "target": "Alexander H Poole",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 507 900 - Lecture",
+            "target": "Jung-Ran Park",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 508 001 - Lecture",
+            "target": "Paul R Pinto",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 508 900 - Lecture",
+            "target": "Paul R Pinto",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 517 900 - Lecture",
+            "target": "Andrew W Calhoun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 532 001 - Lecture",
+            "target": "Chaomei Chen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 532 900 - Lecture",
+            "target": "Chaomei Chen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 540 001 - Lecture",
+            "target": "Il-Yeol Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 540 900 - Lecture",
+            "target": "Il-Yeol Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 560 900 - Lecture",
+            "target": "Alexander H Poole",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 590 001 - Lecture",
+            "target": "Jane Greenberg",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 590 900 - Lecture",
+            "target": "Jane Greenberg",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 600 900 - Lecture",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 605 001 - Lecture",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 605 900 - Lecture",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 606 001 - Lecture",
+            "target": "Hegler Correa Tissot",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 606 900 - Lecture",
+            "target": "Hegler Correa Tissot",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 608 900 - Lecture",
+            "target": "Afsaneh Razi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 609 001 - Lecture",
+            "target": "Deborah A Garwood",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 609 900 - Lecture",
+            "target": "Deborah A Garwood",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 623 001 - Lecture",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 623 900 - Lecture",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 629 001 - Lecture",
+            "target": "Weimao Ke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 629 900 - Lecture",
+            "target": "Weimao Ke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 648 900 - Lecture",
+            "target": "Elizabeth A Campbell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 652 001 - Lecture",
+            "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 652 900 - Lecture",
+            "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 655 001 - Lecture",
+            "target": "Mat R Kelly",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 655 900 - Lecture",
+            "target": "Mat R Kelly",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 657 900 - Lecture",
+            "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 684 900 - Lecture",
+            "target": "Melissa M Brinn",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 690 001 - Lecture",
+            "target": "Sonia M Pascua",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 690 900 - Lecture",
+            "target": "Sonia M Pascua",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 693 001 - Lecture",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 693 900 - Lecture",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 712 001 - Lecture",
+            "target": "Chad E Peiper",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 712 900 - Lecture",
+            "target": "Chad E Peiper",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 725 900 - Lecture",
+            "target": "John S Seberger",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 823 001 - Lecture",
+            "target": "Aleksandra Sarcevic",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 881 001 - Lecture",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 881 900 - Lecture",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 890 900 - Lecture",
+            "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 001 - Dissertation",
+            "target": "Yuan An",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 002 - Dissertation",
+            "target": "Michael D Ekstrand",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 003 - Dissertation",
+            "target": "Jane Greenberg",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 004 - Dissertation",
+            "target": "Xiaohua Hu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 005 - Dissertation",
+            "target": "Weimao Ke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 006 - Dissertation",
+            "target": "Mat R Kelly",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 007 - Dissertation",
+            "target": "Helena Mentis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 008 - Dissertation",
+            "target": "Alexander H Poole",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 009 - Dissertation",
+            "target": "Afsaneh Razi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 010 - Dissertation",
+            "target": "Shadi Rezapour",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 011 - Dissertation",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 012 - Dissertation",
+            "target": "Aleksandra Sarcevic",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 013 - Dissertation",
+            "target": "John S Seberger",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 014 - Dissertation",
+            "target": "Rosina O Weber",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 015 - Dissertation",
+            "target": "Jake Williams",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 016 - Dissertation",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998 017 - Dissertation",
+            "target": "Christopher C Yang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 201 001 - Lecture",
+            "target": "Reza Moradinezhad",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 201 002 - Lecture",
+            "target": "Reza Moradinezhad",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 211 001 - Lecture",
+            "target": "Filippos I Vokolos",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 311 001 - Lecture",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 311 002 - Lecture",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 570 001 - Lecture",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 575 001 - Lecture",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 575 900 - Lecture",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 576 001 - Lecture",
+            "target": "Filippos I Vokolos",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 576 900 - Lecture",
+            "target": "Filippos I Vokolos",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 578 001 - Lecture",
+            "target": "Spiros Mancoridis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 578 900 - Lecture",
+            "target": "Spiros Mancoridis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 630 001 - Lecture",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 630 900 - Lecture",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 691 001 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 691 900 - Lecture",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        }
+    ],
+    "groupMapping": {
+        "1": "Course",
+        "2": "Instructor"
+    }
+}

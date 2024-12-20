@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Knowledge Graph</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            height: 100%;
+            overflow: hidden
+        }
+
+        label {
+            font-weight: normal;
+        }
+
+        .sidepanel {
+            position: absolute;
+            z-index: 10;
+            background-color: white;
+            border: 1px solid #ccc;
+            width: 20%;
+            height: 80%;
+            margin: 50px;
+            padding: 25px;
+            padding-left: 40px;
+            overflow: auto;
+        }
+
+        .sidepanel-text {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .sidepanel-normal-text {
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .sidepanel-option {
+            margin-bottom: 30px;
+        }
+
+        .connected-nodes-item {
+            margin: 15px 0;
+        }
+
+        .additional-info-item {
+            margin: 15px 0;
+        }
+
+        .body-content {
+            padding: 0px;
+        }
+
+        .relationship-container {
+            position: absolute;
+            z-index: 10;
+            right: 230px;
+            background-color: white;
+            padding: 20px;
+            margin-top: 33px;
+            border-radius: 5px;
+        }
+
+        #connected-nodes {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #additional-info {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #visualization {
+            margin-top: 50px;
+            width: 100vw;
+            height: 1050px;
+            font-family: 'Roboto'
+        }
+    </style>
+
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- d3 -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <!-- bootstrap-select -->
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div id="visualization">
+        <div class="relationship-container">
+            <button id="resetButton" class="btn btn-primary">Reset Zoom</button>
+        </div>
+        <div class="sidepanel">
+            <div class="sidepanel-option">
+                <div class="sidepanel-text">
+                    Node:
+                    <div style="margin-left: 15px; display: inline-block">
+                        <select id="node-options" class="selectpicker sidepanel-text" data-live-search="true"
+                            title="Click a node!">
+                        </select>
+                    </div>
+
+                </div>
+            </div>
+            <div class="sidepanel-option">
+                <div class="sidepanel-text">
+                    Node Type: <span id="node-type" class="sidepanel-normal-text"></span>
+                </div>
+            </div>
+            <hr />
+            <div class="sidepanel-option">
+                <div class="sidepanel-text">
+                    Connected nodes:
+                    <ul id="connected-nodes" class="sidepanel-normal-text"></ul>
+                </div>
+            </div>
+            <div class="sidepanel-option">
+                <div class="sidepanel-text">
+                    Additional Info:
+                    <ul id="additional-info" class="sidepanel-normal-text"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/js/bootstrap-select.min.js"></script>
+
+    <script type="module">
+        import { getData } from './data.js';
+
+        var lastClickedNode = null;
+        var lastClickedNodeColor = null;
+        var lastClickedNodeSize = null;
+
+
+        document.addEventListener("DOMContentLoaded", async () => {
+            const data = await getData();
+
+            drawGraph(data);
+
+            const nodeOptions = document.getElementById("node-options");
+            const maxCharacters = 27;
+
+            populateNodeOptions(data);
+
+            $('#node-options').on('change', function () {
+                const selectedNodeId = $('#node-options option:selected').val();
+                const selectedNodeElement = d3.select(`circle[node-id='${selectedNodeId}']`);
+
+                console.log(selectedNodeElement);
+
+                selectedNodeElement.dispatch("click");
+            });
+
+            function populateNodeOptions(data) {
+                const nodeOptions = document.getElementById("node-options");
+                nodeOptions.textContent = "";
+
+                for (let node of data.nodes) {
+                    const option = document.createElement("option");
+                    option.textContent = node.id;
+                    option.setAttribute("data-content", node.id.length > maxCharacters ? node.id.substring(0, maxCharacters) + "..." : node.id);
+                    nodeOptions.append(option);
+                }
+                $('#node-options').selectpicker('refresh');
+            }
+        });
+
+        function drawGraph(data) {
+            // The force simulation mutates links and nodes, so create a copy
+            // so that re-evaluating this cell produces the same result.
+            const links = data.links.map(d => ({ ...d }));
+            const nodes = data.nodes.map(d => ({ ...d }));
+
+            if (document.getElementById("svgCanvas")) {
+                document.getElementById("svgCanvas").remove();
+            }
+
+            // Specify the dimensions of the chart.
+            const div = document.getElementById("visualization");
+            const width = div.offsetWidth
+            const height = div.offsetHeight
+
+            // Specify the color scale.
+            const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+            // Create a simulation with several forces.
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id))
+                .force("charge", d3.forceManyBody())
+                .force("x", d3.forceX())
+                .force("y", d3.forceY());
+
+            // Create the SVG container.
+            const svg = d3.select("#visualization").append("svg")
+                .attr("id", "svgCanvas")
+                .attr("width", width)
+                .attr("height", height)
+                .attr("viewBox", [(-width / 2) - 150, -height / 2 + 40, width, height])
+                .attr("style", "max-width: 100%; height: auto;");
+
+            const container = svg.append("g");
+
+            // Add a line for each link, and a circle for each node.
+            const link = container.append("g")
+                .attr("stroke", "#999")
+                .attr("stroke-opacity", 0.6)
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke-width", d => Math.sqrt(d.value));
+
+            const defaultNodeSize = 5;
+
+            const node = container.append("g")
+                .attr("stroke", "#fff")
+                .attr("stroke-width", 1.5)
+                .selectAll("circle")
+                .data(nodes)
+                .join("circle")
+                .attr("r", defaultNodeSize)
+                .attr("node-id", d => d.id)
+                .attr("fill", d => color(d.group))
+                .style("cursor", "pointer")
+                .on("click", function (event, d) {
+                    zoomIntoNode(event, d);
+
+                    // if there was a last clicked node, revert its color and size
+                    if (lastClickedNode) {
+                        lastClickedNode.transition()
+                            .duration(300)
+                            .attr("r", lastClickedNodeSize)
+                            .attr("fill", lastClickedNodeColor);
+                    }
+
+                    // update the last clicked node, its original color and size
+                    lastClickedNode = d3.select(this);
+                    lastClickedNodeColor = color(d.group);
+                    lastClickedNodeSize = defaultNodeSize;
+
+                    // change the clicked node color to purple and increase it's size
+                    lastClickedNode.transition()
+                        .duration(300)
+                        .attr("fill", "purple")
+                        .attr("r", defaultNodeSize * 2);
+
+                    // Update node-name element
+                    $('#node-options').selectpicker('val', d.id);
+
+                    // Update node-type and connected-nodes elements
+                    document.getElementById("node-type").textContent = data.groupMapping[d.group];
+
+                    let connectedNodes = data.links
+                        .filter(l => l.source === d.id || l.target === d.id)
+                        .map(l => l.source === d.id ? l.target : l.source);
+
+                    const connectedNodesDiv = document.getElementById("connected-nodes");
+                    connectedNodesDiv.textContent = "";
+                    for (let node of connectedNodes) {
+                        const li = document.createElement("li");
+                        li.textContent = node;
+                        li.classList.add("connected-nodes-item");
+                        connectedNodesDiv.append(li);
+                    }
+
+                    // Update additional-info element
+                    const additionalInfoDiv = document.getElementById("additional-info");
+                    additionalInfoDiv.textContent = "";
+                    for (let info of d.additionalInfo) {
+                        const li = document.createElement("li");
+                        li.textContent = info;
+                        li.classList.add("additional-info-item");
+                        additionalInfoDiv.append(li);
+                    }
+
+                });
+
+            const linkLabels = container.append("g")
+                .selectAll("text")
+                .data(links)
+                .join("text")
+                .attr("fill", "darkgray") // Set the text color
+                .attr("font-size", 3) // Adjust the font size as needed
+                .attr("dy", "-0.3em") // Adjust vertical placement
+                .attr("text-anchor", "middle") // center text horizontally
+                .attr("visibility", "hidden") // center text horizontally
+                .text(d => `${d.id}`); // Customize the text as needed
+
+            // adds hover functionality
+            node.append("title")
+                .text(d => {
+                    let additionalInfo = "";
+                    for (let i of d.additionalInfo) {
+                        additionalInfo += i + "\n";
+                    }
+                    return `
+                    ${d.id}\n${additionalInfo}
+                    `
+                });
+
+            // Add a drag behavior.
+            node.call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+            // Set the position attributes of links and nodes each time the simulation ticks.
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+
+                linkLabels
+                    .attr("x", d => (d.source.x + d.target.x) / 2) // Midpoint X
+                    .attr("y", d => (d.source.y + d.target.y) / 2); // Midpoint Y
+
+                labels
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            });
+
+            const labels = container.append("g")
+                .selectAll("text")
+                .data(nodes)
+                .join("text")
+                .attr("dx", -10)
+                .attr("dy", -10)
+                .text(d => d.id.length > 15 ? d.id.substring(0, 10) + "..." : d.id)
+                .style("font-size", "3px")
+                .style("font-family", "Roboto")
+                .style("visibility", "hidden"); // Initially hidden
+
+            // position legend
+            const legend = svg.append("g")
+                .attr("transform", `translate(${width / 2 - 350}, ${height / 2 - 950})`)
+                .style("background-color", "white");
+
+
+            const groups = Array.from(new Set(nodes.map(d => d.group)));
+
+            legend.append("rect")
+                .attr("x", -10)
+                .attr("y", -10)
+                .attr("rx", 10)
+                .attr("ry", 10)
+                .attr("width", 100)
+                .attr("height", groups.length * 20 + 10)
+                .attr("fill", "white")
+                .style("border-radius", "10px");
+
+            groups.forEach((group, i) => {
+                const legendRow = legend.append("g")
+                    .attr("transform", `translate(0, ${i * 30})`);
+
+                legendRow.append("circle")
+                    .attr("r", 5)
+                    .attr("fill", color(group));
+
+                let legendText = data.groupMapping[group];
+
+                legendRow.append("text")
+                    .attr("x", 20)
+                    .attr("y", 5)
+                    .attr("text-anchor", "start")
+                    .text(legendText);
+            });
+
+            const zoomBehavior = d3.zoom()
+                .scaleExtent([0.5, 5]) // minimum and maximum zoom levels
+                .on("zoom", (event) => {
+                    container.attr("transform", event.transform);
+
+                    // show labels if zoomed in enough
+                    if (event.transform.k > 2) {
+                        labels.style("visibility", "visible");
+                        linkLabels.style("visibility", "visible");
+                    } else {
+                        labels.style("visibility", "hidden");
+                        linkLabels.style("visibility", "hidden");
+                    }
+                });
+
+            svg.call(zoomBehavior);
+
+            function resetZoom() {
+                svg.transition()
+                    .duration(750)
+                    .call(zoomBehavior.transform, d3.zoomIdentity);
+            }
+
+            d3.select("#resetButton").on("click", resetZoom);
+
+            function zoomIntoNode(event, d) {
+                const scale = 4;
+                const x = d.x;
+                const y = d.y;
+
+                const width = +svg.attr("width");
+                const height = +svg.attr("height");
+
+                const translateX = -x * scale - 30;
+                const translateY = -y * scale - 30;
+
+                svg.transition()
+                    .duration(750)
+                    .call(zoomBehavior.transform, d3.zoomIdentity.translate(translateX, translateY).scale(scale));
+            }
+
+            // Reheat the simulation when drag starts, and fix the subject position.
+            function dragstarted(event) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                event.subject.fx = event.subject.x;
+                event.subject.fy = event.subject.y;
+            }
+
+            // Update the subject (dragged node) position during drag.
+            function dragged(event) {
+                event.subject.fx = event.x;
+                event.subject.fy = event.y;
+            }
+
+            // Restore the target alpha so the simulation cools after dragging ends.
+            // Unfix the subject position now that it’s no longer being dragged.
+            function dragended(event) {
+                if (!event.active) simulation.alphaTarget(0);
+                event.subject.fx = null;
+                event.subject.fy = null;
+            }
+
+        }
+    </script>
+
+</body>
+
+</html>
