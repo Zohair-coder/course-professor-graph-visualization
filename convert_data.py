@@ -55,7 +55,7 @@ for crn, course_data in data.items():
             )
 
             additionalInfo.append(
-                f"<a href='https://www.ratemyprofessors.com/professor/{instructor['rating']['legacyId']}'>View ratings</a>"
+                f"<a href='https://www.ratemyprofessors.com/professor/{instructor['rating']['legacyId']}' target='_blank'>View ratings</a>"
             )
 
         nodes.append(
