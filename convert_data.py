@@ -38,9 +38,6 @@ def main():
                     }
                 )
 
-            if instructor["name"] in node_ids:
-                continue
-
             additionalInfo = []
             if "rating" in instructor and instructor["rating"]:
                 additionalInfo.append(
@@ -59,13 +56,14 @@ def main():
                     f"<a href='https://www.ratemyprofessors.com/professor/{instructor['rating']['legacyId']}' target='_blank'>View ratings</a>"
                 )
 
-            nodes.append(
-                {
-                    "id": instructor["name"],
-                    "group": 2,
-                    "additionalInfo": additionalInfo,
-                }
-            )
+            if instructor["name"] not in node_ids:
+                nodes.append(
+                    {
+                        "id": instructor["name"],
+                        "group": 2,
+                        "additionalInfo": additionalInfo,
+                    }
+                )
 
     groupMapping = {1: "Course", 2: "Instructor"}
 
