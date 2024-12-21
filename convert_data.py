@@ -11,18 +11,16 @@ for crn, course_data in data.items():
 
     node_ids = [node["id"] for node in nodes]
 
-    if course_id in node_ids:
-        continue
-
-    nodes.append(
-        {
-            "id": course_id,
-            "group": 1,
-            "additionalInfo": [
-                "Course Title: " + course_data["course_title"],
-            ],
-        }
-    )
+    if course_id not in node_ids:
+        nodes.append(
+            {
+                "id": course_id,
+                "group": 1,
+                "additionalInfo": [
+                    "Course Title: " + course_data["course_title"],
+                ],
+            }
+        )
 
     if not course_data["instructors"]:
         continue

@@ -79,6 +79,16 @@
             ]
         },
         {
+            "id": "Kurt Schmidt",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 2.5",
+                "Average Difficulty: 4.3",
+                "Number of ratings: 71",
+                "<a href='https://www.ratemyprofessors.com/professor/435636' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
             "id": "CS 265",
             "group": 1,
             "additionalInfo": [
@@ -98,20 +108,20 @@
             ]
         },
         {
+            "id": "Steve Earth",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 3.8",
+                "Average Difficulty: 2.2",
+                "Number of ratings: 5",
+                "<a href='https://www.ratemyprofessors.com/professor/2315388' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
             "id": "CS 277",
             "group": 1,
             "additionalInfo": [
                 "Course Title: Algorithms and Analysis"
-            ]
-        },
-        {
-            "id": "Kurt Schmidt",
-            "group": 2,
-            "additionalInfo": [
-                "Average Rating: 2.5",
-                "Average Difficulty: 4.3",
-                "Number of ratings: 71",
-                "<a href='https://www.ratemyprofessors.com/professor/435636' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -505,10 +515,53 @@
             "additionalInfo": []
         },
         {
-            "id": "CS 998",
-            "group": 1,
+            "id": "Preetha Chatterjee",
+            "group": 2,
             "additionalInfo": [
-                "Course Title: Ph.D. Dissertation"
+                "Average Rating: 4",
+                "Average Difficulty: 4",
+                "Number of ratings: 10",
+                "<a href='https://www.ratemyprofessors.com/professor/2726032' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Vasilis Gkatzelis",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 5",
+                "Average Difficulty: 3.6",
+                "Number of ratings: 5",
+                "<a href='https://www.ratemyprofessors.com/professor/2339200' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Colin S Gordon",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 4.5",
+                "Average Difficulty: 2",
+                "Number of ratings: 17",
+                "<a href='https://www.ratemyprofessors.com/professor/810201' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Shahin Jabbari",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Ali Shokoufandeh",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Eric Sun",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 3",
+                "Average Difficulty: 3.6",
+                "Number of ratings: 17",
+                "<a href='https://www.ratemyprofessors.com/professor/1802507' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -520,6 +573,23 @@
                 "Number of ratings: 5",
                 "<a href='https://www.ratemyprofessors.com/professor/1885696' target='_blank'>View ratings</a>"
             ]
+        },
+        {
+            "id": "CS 998",
+            "group": 1,
+            "additionalInfo": [
+                "Course Title: Ph.D. Dissertation"
+            ]
+        },
+        {
+            "id": "Spiros Mancoridis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Santiago Ontanon",
+            "group": 2,
+            "additionalInfo": []
         },
         {
             "id": "CT 250",
@@ -679,13 +749,6 @@
             ]
         },
         {
-            "id": "CI 103",
-            "group": 1,
-            "additionalInfo": [
-                "Course Title: Computing and Informatics Design III"
-            ]
-        },
-        {
             "id": "Tammy R Pirmann",
             "group": 2,
             "additionalInfo": [
@@ -693,6 +756,33 @@
                 "Average Difficulty: 3.9",
                 "Number of ratings: 70",
                 "<a href='https://www.ratemyprofessors.com/professor/2558088' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Erjia Yan",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 2.1",
+                "Average Difficulty: 2.8",
+                "Number of ratings: 11",
+                "<a href='https://www.ratemyprofessors.com/professor/2100295' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Michelle L Rogers",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 2.5",
+                "Average Difficulty: 2.5",
+                "Number of ratings: 8",
+                "<a href='https://www.ratemyprofessors.com/professor/1364532' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "CI 103",
+            "group": 1,
+            "additionalInfo": [
+                "Course Title: Computing and Informatics Design III"
             ]
         },
         {
@@ -800,10 +890,13 @@
             ]
         },
         {
-            "id": "INFO 102",
-            "group": 1,
+            "id": "Polly A College",
+            "group": 2,
             "additionalInfo": [
-                "Course Title: Introduction to Information Systems"
+                "Average Rating: 5",
+                "Average Difficulty: 2",
+                "Number of ratings: 1",
+                "<a href='https://www.ratemyprofessors.com/professor/2704562' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -814,6 +907,23 @@
                 "Average Difficulty: 3",
                 "Number of ratings: 2",
                 "<a href='https://www.ratemyprofessors.com/professor/2945332' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "INFO 102",
+            "group": 1,
+            "additionalInfo": [
+                "Course Title: Introduction to Information Systems"
+            ]
+        },
+        {
+            "id": "Abass O Ahmed",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 3.8",
+                "Average Difficulty: 2.9",
+                "Number of ratings: 45",
+                "<a href='https://www.ratemyprofessors.com/professor/1109819' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -838,16 +948,6 @@
             "group": 1,
             "additionalInfo": [
                 "Course Title: Introduction to Human-Computer Interaction"
-            ]
-        },
-        {
-            "id": "Erjia Yan",
-            "group": 2,
-            "additionalInfo": [
-                "Average Rating: 2.1",
-                "Average Difficulty: 2.8",
-                "Number of ratings: 11",
-                "<a href='https://www.ratemyprofessors.com/professor/2100295' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -885,6 +985,16 @@
             ]
         },
         {
+            "id": "Il-Yeol Song",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 4",
+                "Average Difficulty: 3.6",
+                "Number of ratings: 11",
+                "<a href='https://www.ratemyprofessors.com/professor/957870' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
             "id": "INFO 215",
             "group": 1,
             "additionalInfo": [
@@ -892,13 +1002,13 @@
             ]
         },
         {
-            "id": "Michelle L Rogers",
+            "id": "Jung-Ran Park",
             "group": 2,
             "additionalInfo": [
-                "Average Rating: 2.5",
-                "Average Difficulty: 2.5",
-                "Number of ratings: 8",
-                "<a href='https://www.ratemyprofessors.com/professor/1364532' target='_blank'>View ratings</a>"
+                "Average Rating: 4.1",
+                "Average Difficulty: 3.4",
+                "Number of ratings: 14",
+                "<a href='https://www.ratemyprofessors.com/professor/1296385' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -991,16 +1101,6 @@
             ]
         },
         {
-            "id": "Jung-Ran Park",
-            "group": 2,
-            "additionalInfo": [
-                "Average Rating: 4.1",
-                "Average Difficulty: 3.4",
-                "Number of ratings: 14",
-                "<a href='https://www.ratemyprofessors.com/professor/1296385' target='_blank'>View ratings</a>"
-            ]
-        },
-        {
             "id": "INFO 508",
             "group": 1,
             "additionalInfo": [
@@ -1026,16 +1126,6 @@
             "group": 1,
             "additionalInfo": [
                 "Course Title: Perspectives on Information Systems"
-            ]
-        },
-        {
-            "id": "Il-Yeol Song",
-            "group": 2,
-            "additionalInfo": [
-                "Average Rating: 4",
-                "Average Difficulty: 3.6",
-                "Number of ratings: 11",
-                "<a href='https://www.ratemyprofessors.com/professor/957870' target='_blank'>View ratings</a>"
             ]
         },
         {
@@ -1327,6 +1417,61 @@
             ]
         },
         {
+            "id": "Xiaohua Hu",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 1.9",
+                "Average Difficulty: 4.2",
+                "Number of ratings: 9",
+                "<a href='https://www.ratemyprofessors.com/professor/903316' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Helena Mentis",
+            "group": 2,
+            "additionalInfo": []
+        },
+        {
+            "id": "Shadi Rezapour",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 2",
+                "Average Difficulty: 3.5",
+                "Number of ratings: 4",
+                "<a href='https://www.ratemyprofessors.com/professor/2787557' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Rosina O Weber",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 1.6",
+                "Average Difficulty: 4",
+                "Number of ratings: 11",
+                "<a href='https://www.ratemyprofessors.com/professor/1462799' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Jake Williams",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 1",
+                "Average Difficulty: 4.6",
+                "Number of ratings: 21",
+                "<a href='https://www.ratemyprofessors.com/professor/2578037' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
+            "id": "Christopher C Yang",
+            "group": 2,
+            "additionalInfo": [
+                "Average Rating: 2.5",
+                "Average Difficulty: 3",
+                "Number of ratings: 2",
+                "<a href='https://www.ratemyprofessors.com/professor/1993340' target='_blank'>View ratings</a>"
+            ]
+        },
+        {
             "id": "SE 201",
             "group": 1,
             "additionalInfo": [
@@ -1386,11 +1531,6 @@
             ]
         },
         {
-            "id": "Spiros Mancoridis",
-            "group": 2,
-            "additionalInfo": []
-        },
-        {
             "id": "SE 630",
             "group": 1,
             "additionalInfo": [
@@ -1409,6 +1549,120 @@
         {
             "source": "CS 164",
             "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 164",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 171",
+            "target": "Mark W Boady",
             "value": 1,
             "id": ""
         },
@@ -1437,8 +1691,86 @@
             "id": ""
         },
         {
+            "source": "CS 172",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 172",
+            "target": "Adelaida A Medlock",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 260",
             "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Galen Long",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 260",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 265",
+            "target": "Joseph A Gallego Mejia",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 265",
+            "target": "Joseph A Gallego Mejia",
             "value": 1,
             "id": ""
         },
@@ -1455,8 +1787,32 @@
             "id": ""
         },
         {
+            "source": "CS 270",
+            "target": "Steve Earth",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 277",
             "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 277",
+            "target": "Kurt Schmidt",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 283",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 283",
+            "target": "Brian S Mitchell",
             "value": 1,
             "id": ""
         },
@@ -1475,6 +1831,18 @@
         {
             "source": "CS 314",
             "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 360",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 360",
+            "target": "Geoffrey B Mainland",
             "value": 1,
             "id": ""
         },
@@ -1527,6 +1895,12 @@
             "id": ""
         },
         {
+            "source": "CS 472",
+            "target": "Brian S Mitchell",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 478",
             "target": "Galen Long",
             "value": 1,
@@ -1551,6 +1925,18 @@
             "id": ""
         },
         {
+            "source": "CS 501",
+            "target": "Samantha R Bewley",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 502",
+            "target": "Mark W Boady",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 502",
             "target": "Mark W Boady",
             "value": 1,
@@ -1569,8 +1955,32 @@
             "id": ""
         },
         {
+            "source": "CS 503",
+            "target": "Benji Lilley",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 503",
+            "target": "Hung N Do",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 504",
             "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 504",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 510",
+            "target": "Sean P Grimes",
             "value": 1,
             "id": ""
         },
@@ -1587,8 +1997,26 @@
             "id": ""
         },
         {
+            "source": "CS 530",
+            "target": "Nadya B Sultanik",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 543",
             "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 543",
+            "target": "Brian L Stuart",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 550",
+            "target": "Jeremy R Johnson",
             "value": 1,
             "id": ""
         },
@@ -1605,6 +2033,18 @@
             "id": ""
         },
         {
+            "source": "CS 570",
+            "target": "Sam M Bever",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 591",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 591",
             "target": "Trip E Denton",
             "value": 1,
@@ -1613,6 +2053,18 @@
         {
             "source": "CS 592",
             "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 592",
+            "target": "Trip E Denton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 613",
+            "target": "Reza Moradinezhad",
             "value": 1,
             "id": ""
         },
@@ -1635,6 +2087,18 @@
             "id": ""
         },
         {
+            "source": "CS 615",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 615",
+            "target": "Matthew J Burlick",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 616",
             "target": "Kaidi Xu",
             "value": 1,
@@ -1647,8 +2111,128 @@
             "id": ""
         },
         {
+            "source": "CS 997",
+            "target": "Preetha Chatterjee",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Vasilis Gkatzelis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Colin S Gordon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Shahin Jabbari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Edward Kim",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Manolis Pountourakis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Ali Shokoufandeh",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "Eric Sun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 997",
+            "target": "David E Breen",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CS 998",
             "target": "David E Breen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Vasilis Gkatzelis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Colin S Gordon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Jeremy R Johnson",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Edward Kim",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Geoffrey B Mainland",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Spiros Mancoridis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Santiago Ontanon",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Manolis Pountourakis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CS 998",
+            "target": "Kaidi Xu",
             "value": 1,
             "id": ""
         },
@@ -1713,8 +2297,80 @@
             "id": ""
         },
         {
+            "source": "CT 600",
+            "target": "Chris J Carroll",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "CI 102",
             "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Andrew W Calhoun",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Michelle L Rogers",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Daniel W Moix",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 102",
+            "target": "Tammy R Pirmann",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "CI 103",
+            "target": "Tammy R Pirmann",
             "value": 1,
             "id": ""
         },
@@ -1731,8 +2387,26 @@
             "id": ""
         },
         {
+            "source": "DSCI 501",
+            "target": "Bhupesh Y Shetty",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "DSCI 511",
             "target": "Shruti V Phadke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 511",
+            "target": "Shruti V Phadke",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 521",
+            "target": "Pragati Awasthi",
             "value": 1,
             "id": ""
         },
@@ -1749,8 +2423,26 @@
             "id": ""
         },
         {
+            "source": "DSCI 591",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "DSCI 632",
             "target": "Milad Toutounchian",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 632",
+            "target": "Milad Toutounchian",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "DSCI 641",
+            "target": "Michael D Ekstrand",
             "value": 1,
             "id": ""
         },
@@ -1767,8 +2459,56 @@
             "id": ""
         },
         {
+            "source": "INFO 101",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101",
+            "target": "Michelle A Tarbutton",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101",
+            "target": "Pragati Awasthi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101",
+            "target": "Polly A College",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 101",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 102",
             "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102",
+            "target": "Abass O Ahmed",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 102",
+            "target": "Pragati Awasthi",
             "value": 1,
             "id": ""
         },
@@ -1797,14 +2537,38 @@
             "id": ""
         },
         {
+            "source": "INFO 210",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 210",
+            "target": "Il-Yeol Song",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 215",
             "target": "Michelle L Rogers",
             "value": 1,
             "id": ""
         },
         {
+            "source": "INFO 215",
+            "target": "Jung-Ran Park",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 250",
             "target": "Layla Bouzoubaa",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 310",
+            "target": "David A Appelbaum",
             "value": 1,
             "id": ""
         },
@@ -1851,6 +2615,12 @@
             "id": ""
         },
         {
+            "source": "INFO 508",
+            "target": "Andrew J Kane",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 517",
             "target": "Andrew W Calhoun",
             "value": 1,
@@ -1859,6 +2629,18 @@
         {
             "source": "INFO 532",
             "target": "Chaomei Chen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 532",
+            "target": "Chaomei Chen",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 540",
+            "target": "Il-Yeol Song",
             "value": 1,
             "id": ""
         },
@@ -1881,6 +2663,12 @@
             "id": ""
         },
         {
+            "source": "INFO 590",
+            "target": "Jane Greenberg",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 600",
             "target": "Bo Song",
             "value": 1,
@@ -1889,6 +2677,18 @@
         {
             "source": "INFO 605",
             "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 605",
+            "target": "Bo Song",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 606",
+            "target": "Hegler Correa Tissot",
             "value": 1,
             "id": ""
         },
@@ -1911,6 +2711,18 @@
             "id": ""
         },
         {
+            "source": "INFO 609",
+            "target": "Deborah A Garwood",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 616",
+            "target": "Angie M Bellanich",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 616",
             "target": "Angie M Bellanich",
             "value": 1,
@@ -1919,6 +2731,18 @@
         {
             "source": "INFO 623",
             "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 623",
+            "target": "Lei Wang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 629",
+            "target": "Weimao Ke",
             "value": 1,
             "id": ""
         },
@@ -1937,6 +2761,18 @@
         {
             "source": "INFO 652",
             "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 652",
+            "target": "Heather L Willever-Farr",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 655",
+            "target": "Mat R Kelly",
             "value": 1,
             "id": ""
         },
@@ -1965,8 +2801,26 @@
             "id": ""
         },
         {
+            "source": "INFO 690",
+            "target": "Sonia M Pascua",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 693",
             "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 693",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 712",
+            "target": "Chad E Peiper",
             "value": 1,
             "id": ""
         },
@@ -2001,6 +2855,12 @@
             "id": ""
         },
         {
+            "source": "INFO 881",
+            "target": "Tim J Gorichanaz",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "INFO 890",
             "target": "Heather L Willever-Farr",
             "value": 1,
@@ -2009,6 +2869,96 @@
         {
             "source": "INFO 998",
             "target": "Yuan An",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Michael D Ekstrand",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Jane Greenberg",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Xiaohua Hu",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Mat R Kelly",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Helena Mentis",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Alexander H Poole",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Afsaneh Razi",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Shadi Rezapour",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Aleksandra Sarcevic",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "John S Seberger",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Rosina O Weber",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Jake Williams",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Erjia Yan",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "INFO 998",
+            "target": "Christopher C Yang",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 201",
+            "target": "Reza Moradinezhad",
             "value": 1,
             "id": ""
         },
@@ -2031,7 +2981,19 @@
             "id": ""
         },
         {
+            "source": "SE 311",
+            "target": "Yuanfang Cai",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "SE 570",
+            "target": "Boris Valerstein",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 575",
             "target": "Boris Valerstein",
             "value": 1,
             "id": ""
@@ -2049,6 +3011,18 @@
             "id": ""
         },
         {
+            "source": "SE 576",
+            "target": "Filippos I Vokolos",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 578",
+            "target": "Spiros Mancoridis",
+            "value": 1,
+            "id": ""
+        },
+        {
             "source": "SE 578",
             "target": "Spiros Mancoridis",
             "value": 1,
@@ -2057,6 +3031,18 @@
         {
             "source": "SE 630",
             "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 630",
+            "target": "Ram Arthanari",
+            "value": 1,
+            "id": ""
+        },
+        {
+            "source": "SE 691",
+            "target": "Trip E Denton",
             "value": 1,
             "id": ""
         },
