@@ -7,7 +7,7 @@ nodes = []
 links = []
 
 for crn, course_data in data.items():
-    course_id = f"{course_data['subject_code']} {course_data['course_number']} {course_data['section']} - {course_data['instruction_type']}"
+    course_id = f"{course_data['subject_code']} {course_data['course_number']}"
 
     node_ids = [node["id"] for node in nodes]
 
@@ -19,23 +19,7 @@ for crn, course_data in data.items():
             "id": course_id,
             "group": 1,
             "additionalInfo": [
-                "Instruction Method: " + course_data["instruction_method"],
-                "Section: " + course_data["section"],
-                f"CRN: {course_data["crn"]}",
-                "Enrollment: " + course_data["enroll"],
-                "Max Enrollment: " + course_data["max_enroll"],
                 "Course Title: " + course_data["course_title"],
-                "Days: " + ", ".join(course_data["days"])
-                if course_data["days"]
-                else "N/A",
-                "Start Time: " + course_data["start_time"]
-                if course_data["start_time"]
-                else "N/A",
-                "End Time: " + course_data["end_time"]
-                if course_data["end_time"]
-                else "N/A",
-                "Credits: " + course_data["credits"],
-                "Prerequisites: " + course_data["prereqs"],
             ],
         }
     )
@@ -56,7 +40,23 @@ for crn, course_data in data.items():
         if instructor["name"] in node_ids:
             continue
 
-        nodes.append({"id": instructor["name"], "group": 2, "additionalInfo": []})
+        additionalInfo = []
+        if "rating" in instructor and instructor["rating"]:
+            additionalInfo.append(
+                f"Average Rating: {instructor['rating']['avgRating']}"
+            )
+
+            additionalInfo.append(
+                f"Average Difficulty: {instructor['rating']['avgDifficulty']}"
+            )
+
+            additionalInfo.append(
+                f"Number of ratings: {instructor['rating']['numRatings']}"
+            )
+
+        nodes.append(
+            {"id": instructor["name"], "group": 2, "additionalInfo": additionalInfo}
+        )
 
 
 groupMapping = {1: "Course", 2: "Instructor"}
