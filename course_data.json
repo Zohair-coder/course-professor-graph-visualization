@@ -1553,120 +1553,6 @@
             "id": ""
         },
         {
-            "source": "CS 164",
-            "target": "Brian L Stuart",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 171",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 171",
             "target": "Adelaida A Medlock",
             "value": 1,
@@ -1691,24 +1577,6 @@
             "id": ""
         },
         {
-            "source": "CS 172",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 172",
-            "target": "Adelaida A Medlock",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Galen Long",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 260",
             "target": "Galen Long",
             "value": 1,
@@ -1717,60 +1585,6 @@
         {
             "source": "CS 260",
             "target": "Kurt Schmidt",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Kurt Schmidt",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Galen Long",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Galen Long",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Kurt Schmidt",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Galen Long",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Galen Long",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 260",
-            "target": "Kurt Schmidt",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 265",
-            "target": "Joseph A Gallego Mejia",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 265",
-            "target": "Joseph A Gallego Mejia",
             "value": 1,
             "id": ""
         },
@@ -1799,24 +1613,6 @@
             "id": ""
         },
         {
-            "source": "CS 277",
-            "target": "Kurt Schmidt",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 283",
-            "target": "Brian S Mitchell",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 283",
-            "target": "Brian S Mitchell",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 283",
             "target": "Brian S Mitchell",
             "value": 1,
@@ -1831,18 +1627,6 @@
         {
             "source": "CS 314",
             "target": "Brian L Stuart",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 360",
-            "target": "Geoffrey B Mainland",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 360",
-            "target": "Geoffrey B Mainland",
             "value": 1,
             "id": ""
         },
@@ -1925,18 +1709,6 @@
             "id": ""
         },
         {
-            "source": "CS 501",
-            "target": "Samantha R Bewley",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 502",
-            "target": "Mark W Boady",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 502",
             "target": "Mark W Boady",
             "value": 1,
@@ -1955,32 +1727,8 @@
             "id": ""
         },
         {
-            "source": "CS 503",
-            "target": "Benji Lilley",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 503",
-            "target": "Hung N Do",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 504",
             "target": "Boris Valerstein",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 504",
-            "target": "Boris Valerstein",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 510",
-            "target": "Sean P Grimes",
             "value": 1,
             "id": ""
         },
@@ -1997,26 +1745,8 @@
             "id": ""
         },
         {
-            "source": "CS 530",
-            "target": "Nadya B Sultanik",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 543",
             "target": "Brian L Stuart",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 543",
-            "target": "Brian L Stuart",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 550",
-            "target": "Jeremy R Johnson",
             "value": 1,
             "id": ""
         },
@@ -2033,18 +1763,6 @@
             "id": ""
         },
         {
-            "source": "CS 570",
-            "target": "Sam M Bever",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 591",
-            "target": "Trip E Denton",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CS 591",
             "target": "Trip E Denton",
             "value": 1,
@@ -2053,18 +1771,6 @@
         {
             "source": "CS 592",
             "target": "Trip E Denton",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 592",
-            "target": "Trip E Denton",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 613",
-            "target": "Reza Moradinezhad",
             "value": 1,
             "id": ""
         },
@@ -2077,18 +1783,6 @@
         {
             "source": "CS 614",
             "target": "Edward Kim",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 615",
-            "target": "Matthew J Burlick",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CS 615",
-            "target": "Matthew J Burlick",
             "value": 1,
             "id": ""
         },
@@ -2297,18 +1991,6 @@
             "id": ""
         },
         {
-            "source": "CT 600",
-            "target": "Chris J Carroll",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 102",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CI 102",
             "target": "Daniel W Moix",
             "value": 1,
@@ -2339,50 +2021,8 @@
             "id": ""
         },
         {
-            "source": "CI 102",
-            "target": "Michelle L Rogers",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 102",
-            "target": "Daniel W Moix",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 102",
-            "target": "Erjia Yan",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 102",
-            "target": "Tammy R Pirmann",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 102",
-            "target": "Tammy R Pirmann",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "CI 103",
             "target": "Tammy R Pirmann",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "CI 103",
-            "target": "Tammy R Pirmann",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "DSCI 501",
-            "target": "Bhupesh Y Shetty",
             "value": 1,
             "id": ""
         },
@@ -2399,18 +2039,6 @@
             "id": ""
         },
         {
-            "source": "DSCI 511",
-            "target": "Shruti V Phadke",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "DSCI 521",
-            "target": "Pragati Awasthi",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "DSCI 521",
             "target": "Pragati Awasthi",
             "value": 1,
@@ -2423,26 +2051,8 @@
             "id": ""
         },
         {
-            "source": "DSCI 591",
-            "target": "Lei Wang",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "DSCI 632",
             "target": "Milad Toutounchian",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "DSCI 632",
-            "target": "Milad Toutounchian",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "DSCI 641",
-            "target": "Michael D Ekstrand",
             "value": 1,
             "id": ""
         },
@@ -2466,12 +2076,6 @@
         },
         {
             "source": "INFO 101",
-            "target": "Michelle A Tarbutton",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 101",
             "target": "Pragati Awasthi",
             "value": 1,
             "id": ""
@@ -2484,12 +2088,6 @@
         },
         {
             "source": "INFO 101",
-            "target": "Ram Arthanari",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 102",
             "target": "Ram Arthanari",
             "value": 1,
             "id": ""
@@ -2573,12 +2171,6 @@
             "id": ""
         },
         {
-            "source": "INFO 310",
-            "target": "David A Appelbaum",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "INFO 355",
             "target": "Hegler Correa Tissot",
             "value": 1,
@@ -2615,12 +2207,6 @@
             "id": ""
         },
         {
-            "source": "INFO 508",
-            "target": "Andrew J Kane",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "INFO 517",
             "target": "Andrew W Calhoun",
             "value": 1,
@@ -2629,18 +2215,6 @@
         {
             "source": "INFO 532",
             "target": "Chaomei Chen",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 532",
-            "target": "Chaomei Chen",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 540",
-            "target": "Il-Yeol Song",
             "value": 1,
             "id": ""
         },
@@ -2663,12 +2237,6 @@
             "id": ""
         },
         {
-            "source": "INFO 590",
-            "target": "Jane Greenberg",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "INFO 600",
             "target": "Bo Song",
             "value": 1,
@@ -2677,18 +2245,6 @@
         {
             "source": "INFO 605",
             "target": "Bo Song",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 605",
-            "target": "Bo Song",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 606",
-            "target": "Hegler Correa Tissot",
             "value": 1,
             "id": ""
         },
@@ -2711,18 +2267,6 @@
             "id": ""
         },
         {
-            "source": "INFO 609",
-            "target": "Deborah A Garwood",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 616",
-            "target": "Angie M Bellanich",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "INFO 616",
             "target": "Angie M Bellanich",
             "value": 1,
@@ -2731,18 +2275,6 @@
         {
             "source": "INFO 623",
             "target": "Lei Wang",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 623",
-            "target": "Lei Wang",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 629",
-            "target": "Weimao Ke",
             "value": 1,
             "id": ""
         },
@@ -2761,18 +2293,6 @@
         {
             "source": "INFO 652",
             "target": "Heather L Willever-Farr",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 652",
-            "target": "Heather L Willever-Farr",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 655",
-            "target": "Mat R Kelly",
             "value": 1,
             "id": ""
         },
@@ -2801,26 +2321,8 @@
             "id": ""
         },
         {
-            "source": "INFO 690",
-            "target": "Sonia M Pascua",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "INFO 693",
             "target": "Tim J Gorichanaz",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 693",
-            "target": "Tim J Gorichanaz",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 712",
-            "target": "Chad E Peiper",
             "value": 1,
             "id": ""
         },
@@ -2845,12 +2347,6 @@
         {
             "source": "INFO 873",
             "target": "Michael D Ekstrand",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "INFO 881",
-            "target": "Tim J Gorichanaz",
             "value": 1,
             "id": ""
         },
@@ -2963,20 +2459,8 @@
             "id": ""
         },
         {
-            "source": "SE 201",
-            "target": "Reza Moradinezhad",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "SE 211",
             "target": "Filippos I Vokolos",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "SE 311",
-            "target": "Yuanfang Cai",
             "value": 1,
             "id": ""
         },
@@ -2999,18 +2483,6 @@
             "id": ""
         },
         {
-            "source": "SE 575",
-            "target": "Boris Valerstein",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "SE 576",
-            "target": "Filippos I Vokolos",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "SE 576",
             "target": "Filippos I Vokolos",
             "value": 1,
@@ -3023,26 +2495,8 @@
             "id": ""
         },
         {
-            "source": "SE 578",
-            "target": "Spiros Mancoridis",
-            "value": 1,
-            "id": ""
-        },
-        {
             "source": "SE 630",
             "target": "Ram Arthanari",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "SE 630",
-            "target": "Ram Arthanari",
-            "value": 1,
-            "id": ""
-        },
-        {
-            "source": "SE 691",
-            "target": "Trip E Denton",
             "value": 1,
             "id": ""
         },
