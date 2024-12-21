@@ -288,7 +288,7 @@
                     additionalInfoDiv.textContent = "";
                     for (let info of d.additionalInfo) {
                         const li = document.createElement("li");
-                        li.textContent = info;
+                        li.innerHTML = info;
                         li.classList.add("additional-info-item");
                         additionalInfoDiv.append(li);
                     }

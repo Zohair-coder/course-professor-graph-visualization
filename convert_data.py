@@ -54,6 +54,10 @@ for crn, course_data in data.items():
                 f"Number of ratings: {instructor['rating']['numRatings']}"
             )
 
+            additionalInfo.append(
+                f"<a href='https://www.ratemyprofessors.com/professor/{instructor['rating']['legacyId']}'>View ratings</a>"
+            )
+
         nodes.append(
             {"id": instructor["name"], "group": 2, "additionalInfo": additionalInfo}
         )
