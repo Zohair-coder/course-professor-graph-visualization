@@ -187,10 +187,11 @@
         });
 
         function drawGraph(data) {
-            // The force simulation mutates links and nodes, so create a copy
-            // so that re-evaluating this cell produces the same result.
-            const links = data.links.map(d => ({ ...d }));
-            const nodes = data.nodes.map(d => ({ ...d }));
+            // Store original data
+            const originalData = {
+                nodes: data.nodes.map(d => ({ ...d })),
+                links: data.links.map(d => ({ ...d }))
+            };
 
             if (document.getElementById("svgCanvas")) {
                 document.getElementById("svgCanvas").remove();
@@ -198,15 +199,15 @@
 
             // Specify the dimensions of the chart.
             const div = document.getElementById("visualization");
-            const width = div.offsetWidth
-            const height = div.offsetHeight
+            const width = div.offsetWidth;
+            const height = div.offsetHeight;
 
             // Specify the color scale.
             const color = d3.scaleOrdinal(d3.schemeCategory10);
 
             // Create a simulation with several forces.
-            const simulation = d3.forceSimulation(nodes)
-                .force("link", d3.forceLink(links).id(d => d.id))
+            const simulation = d3.forceSimulation(data.nodes)
+                .force("link", d3.forceLink(data.links).id(d => d.id))
                 .force("charge", d3.forceManyBody())
                 .force("x", d3.forceX())
                 .force("y", d3.forceY());
@@ -226,7 +227,7 @@
                 .attr("stroke", "#999")
                 .attr("stroke-opacity", 0.6)
                 .selectAll("line")
-                .data(links)
+                .data(data.links)
                 .join("line")
                 .attr("stroke-width", d => Math.sqrt(d.value));
 
@@ -236,7 +237,7 @@
                 .attr("stroke", "#fff")
                 .attr("stroke-width", 1.5)
                 .selectAll("circle")
-                .data(nodes)
+                .data(data.nodes)
                 .join("circle")
                 .attr("r", defaultNodeSize)
                 .attr("node-id", d => d.id)
@@ -258,7 +259,7 @@
                     lastClickedNodeColor = color(d.group);
                     lastClickedNodeSize = defaultNodeSize;
 
-                    // change the clicked node color to purple and increase it's size
+                    // change the clicked node color to purple and increase its size
                     lastClickedNode.transition()
                         .duration(300)
                         .attr("fill", "purple")
@@ -270,15 +271,24 @@
                     // Update node-type and connected-nodes elements
                     document.getElementById("node-type").textContent = data.groupMapping[d.group];
 
-                    let connectedNodes = data.links
-                        .filter(l => l.source === d.id || l.target === d.id)
-                        .map(l => l.source === d.id ? l.target : l.source);
+                    // Use originalData for finding connected nodes
+                    let connectedNodes = originalData.links
+                        .filter(l => {
+                            const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                            const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                            return sourceId === d.id || targetId === d.id;
+                        })
+                        .map(l => {
+                            const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                            const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                            return sourceId === d.id ? targetId : sourceId;
+                        });
 
                     const connectedNodesDiv = document.getElementById("connected-nodes");
                     connectedNodesDiv.textContent = "";
-                    for (let node of connectedNodes) {
+                    for (let nodeId of connectedNodes) {
                         const li = document.createElement("li");
-                        li.textContent = node;
+                        li.textContent = nodeId;
                         li.classList.add("connected-nodes-item");
                         connectedNodesDiv.append(li);
                     }
@@ -293,11 +303,92 @@
                         additionalInfoDiv.append(li);
                     }
 
+                    // Filter nodes and links using originalData
+                    const visibleNodes = new Set();
+                    const visibleLinks = new Set();
+
+                    function addConnectedNodes(nodeId, level) {
+                        if (level > 2) return;
+                        visibleNodes.add(nodeId);
+                        originalData.links.forEach(link => {
+                            const sourceId = typeof link.source === 'object' ? link.source.id : link.source;
+                            const targetId = typeof link.target === 'object' ? link.target.id : link.target;
+
+                            if (sourceId === nodeId || targetId === nodeId) {
+                                visibleLinks.add(link);
+                                const otherNode = sourceId === nodeId ? targetId : sourceId;
+                                if (!visibleNodes.has(otherNode)) {
+                                    addConnectedNodes(otherNode, level + 1);
+                                }
+                            }
+                        });
+                    }
+
+                    addConnectedNodes(d.id, 0);
+
+                    // Update visibility with a smooth transition
+                    node.style("display", n => visibleNodes.has(n.id) ? "inline" : "none")
+                        .transition()
+                        .duration(750)
+                        .style("opacity", n => visibleNodes.has(n.id) ? 1 : 0)
+                        .on("end", function (d) {
+                            d3.select(this).style("display", visibleNodes.has(d.id) ? "inline" : "none");
+                        });
+
+                    link.style("display", l => {
+                        const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                        const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                        return visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? "inline" : "none";
+                    })
+                        .transition()
+                        .duration(750)
+                        .style("opacity", l => {
+                            const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                            const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                            return visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? 1 : 0;
+                        })
+                        .on("end", function (d) {
+                            const sourceId = typeof d.source === 'object' ? d.source.id : d.source;
+                            const targetId = typeof d.target === 'object' ? d.target.id : d.target;
+                            d3.select(this).style("display",
+                                visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? "inline" : "none"
+                            );
+                        });
+
+                    // Also update the labels visibility
+                    labels.style("display", n => visibleNodes.has(n.id) ? "inline" : "none")
+                        .transition()
+                        .duration(750)
+                        .style("opacity", n => visibleNodes.has(n.id) ? 1 : 0)
+                        .on("end", function (d) {
+                            d3.select(this).style("display", visibleNodes.has(d.id) ? "inline" : "none");
+                        });
+
+                    // Also update the link labels visibility
+                    linkLabels.style("display", l => {
+                        const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                        const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                        return visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? "inline" : "none";
+                    })
+                        .transition()
+                        .duration(750)
+                        .style("opacity", l => {
+                            const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                            const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                            return visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? 1 : 0;
+                        })
+                        .on("end", function (d) {
+                            const sourceId = typeof d.source === 'object' ? d.source.id : d.source;
+                            const targetId = typeof d.target === 'object' ? d.target.id : d.target;
+                            d3.select(this).style("display",
+                                visibleNodes.has(sourceId) && visibleNodes.has(targetId) ? "inline" : "none"
+                            );
+                        });
                 });
 
             const linkLabels = container.append("g")
                 .selectAll("text")
-                .data(links)
+                .data(data.links)
                 .join("text")
                 .attr("fill", "darkgray") // Set the text color
                 .attr("font-size", 3) // Adjust the font size as needed
@@ -347,7 +438,7 @@
 
             const labels = container.append("g")
                 .selectAll("text")
-                .data(nodes)
+                .data(data.nodes)
                 .join("text")
                 .attr("dx", -10)
                 .attr("dy", -10)
@@ -361,8 +452,7 @@
                 .attr("transform", `translate(${width / 2 - 350}, ${height / 2 - 950})`)
                 .style("background-color", "white");
 
-
-            const groups = Array.from(new Set(nodes.map(d => d.group)));
+            const groups = Array.from(new Set(data.nodes.map(d => d.group)));
 
             legend.append("rect")
                 .attr("x", -10)
@@ -412,6 +502,36 @@
                 svg.transition()
                     .duration(750)
                     .call(zoomBehavior.transform, d3.zoomIdentity);
+
+                // Show all nodes and links with smooth transition
+                node.style("display", "inline")
+                    .transition()
+                    .duration(750)
+                    .style("opacity", 1);
+
+                link.style("display", "inline")
+                    .transition()
+                    .duration(750)
+                    .style("opacity", 1);
+
+                labels.style("display", "inline")
+                    .transition()
+                    .duration(750)
+                    .style("opacity", 1);
+
+                linkLabels.style("display", "inline")
+                    .transition()
+                    .duration(750)
+                    .style("opacity", 1);
+
+                // Reset last clicked node if exists
+                if (lastClickedNode) {
+                    lastClickedNode.transition()
+                        .duration(300)
+                        .attr("r", lastClickedNodeSize)
+                        .attr("fill", lastClickedNodeColor);
+                    lastClickedNode = null;
+                }
             }
 
             d3.select("#resetButton").on("click", resetZoom);
@@ -452,7 +572,6 @@
                 event.subject.fx = null;
                 event.subject.fy = null;
             }
-
         }
     </script>
 
